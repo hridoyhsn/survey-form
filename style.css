@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body {
+    font-family: "lato", sans-serif;
+    line-height: 1.5;
+    font-size: 20px;
+    color: white;
+    background-image: url("https://images.unsplash.com/photo-1521737852567-6949f3f9f2b5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1147&q=80");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+  input, select, textarea{
+    padding: 5px 0 5px 5px;
+    font-size: 18px;
+}
+
+  main {
+    background-color: #5B2A86;
+    opacity: .9;
+  }
+  
+  
+  #title {
+    padding: 10px;
+  }
+  #description {
+    font-style: italic;
+  }
+  #intro {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  #survey-form {
+    background-color: #150A1F;
+    opacity: .99;
+    max-width: 840px;
+    margin: 0 auto;
+    border-radius: 5px;
+    padding: 50px;
+  }
+  #submit {
+      padding: 15px;
+      background-color: #5B2A86;
+      width: 100%;
+      color: white;
+      font-size: 18px;
+  }
+  .form-grp {
+    margin: 0 auto 1.25rem auto;
+    padding: 0.25rem;
+  }
+  .form-controll {
+      width: 100%;
+  }
