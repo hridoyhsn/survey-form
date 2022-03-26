@@ -50,6 +50,7 @@
       width: 100%;
       color: white;
       font-size: 18px;
+      border: none;
   }
   .form-grp {
     margin: 0 auto 1.25rem auto;
